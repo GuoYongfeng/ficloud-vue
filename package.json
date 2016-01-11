@@ -54,7 +54,8 @@
   },
   "keywords": [
     "vue",
-    "webpack"
+    "webpack",
+    "vue-cli"
   ],
   "license": "ISC",
   "bugs": {
